@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Window_shad_IIs.PcbDoc   2023/1/4  1:57:40
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Window_shad_IIs-RoundHoles.TXT
+ASCII SlotHoles File : Window_shad_IIs-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.35mm)                                            Round             16        PTH        5.15inch (130.71mm)
+T2      35mil (0.899mm)                                           Round             6         PTH        0.47inch (11.92mm)
+T3      35mil (0.899mm)                                           Slot              3         PTH        1.12inch (28.39mm)
+T4      35mil (0.9mm)                                             Round             116       PTH        19.43inch (493.58mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              141
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,18 @@
+Added Component: Designator=SPI(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_12V Pin=K?-2
+Added Pin To Net: NetName=VCC_12V Pin=K?-4
+Added Pin To Net: NetName=VCC_12V Pin=K?-5
+Added Pin To Net: NetName=VCC_12V Pin=K?-6
+Added Pin To Net: NetName=VCC_5V Pin=SPI-1
+Added Pin To Net: NetName=GND Pin=SPI-2
+Added Pin To Net: NetName=PA5 Pin=SPI-3
+Added Pin To Net: NetName=PA6 Pin=SPI-4
+Added Pin To Net: NetName=PB1 Pin=SPI-5
+Added Pin To Net: NetName=PA4 Pin=SPI-6
+Added Pin To Net: NetName=PB0 Pin=SPI-7
+Added Member To Class: ClassName=Window_shades Member=Component SPI Header 7
+Added Room: Name=Window_shades

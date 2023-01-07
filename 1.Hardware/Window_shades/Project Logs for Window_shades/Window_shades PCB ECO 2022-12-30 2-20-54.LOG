@@ -1,0 +1,8 @@
+Added Component: Designator=V1(MP1584EN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC_12V Pin=V1-1
+Added Pin To Net: NetName=GND Pin=V1-2
+Added Pin To Net: NetName=VCC_7.4V Pin=V1-3
+Added Pin To Net: NetName=GND Pin=V1-4
+Added Member To Class: ClassName=Window_shades Member=Component V1 LM2596S
+Added Room: Name=Window_shades

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PB6 Pin=Servo1-5
+Removed Pin From Net: NetName=PB7 Pin=Servo1-6
+Removed Pin From Net: NetName=PB8 Pin=Servo2-5
+Removed Pin From Net: NetName=PB9 Pin=Servo2-6
+Added Pin To Net: NetName=PB7 Pin=Servo1-5
+Added Pin To Net: NetName=PB6 Pin=Servo1-6
+Added Pin To Net: NetName=PB9 Pin=Servo2-5
+Added Pin To Net: NetName=PB8 Pin=Servo2-6
+Added Room: Name=Window_shades

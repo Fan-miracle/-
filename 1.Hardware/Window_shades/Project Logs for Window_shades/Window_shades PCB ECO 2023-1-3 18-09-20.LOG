@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=Usart2 NewDesignator=Usart1_copy
+Added Component: Designator=PR_copy(HDR1X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PR_copy-1
+Added Pin To Net: NetName=GND Pin=PR_copy-2
+Added Pin To Net: NetName=VCC_3.3V Pin=PR_copy-3
+Added Pin To Net: NetName=RST Pin=PR_copy-4
+Added Pin To Net: NetName=PB11 Pin=PR_copy-5
+Added Pin To Net: NetName=PB10 Pin=PR_copy-6
+Added Pin To Net: NetName=PB1 Pin=PR_copy-7
+Added Pin To Net: NetName=PB0 Pin=PR_copy-8
+Added Pin To Net: NetName=PA7 Pin=PR_copy-9
+Added Pin To Net: NetName=PA6 Pin=PR_copy-10
+Added Pin To Net: NetName=PA5 Pin=PR_copy-11
+Added Pin To Net: NetName=PA4 Pin=PR_copy-12
+Added Pin To Net: NetName=PA3 Pin=PR_copy-13
+Added Pin To Net: NetName=PA2 Pin=PR_copy-14
+Added Pin To Net: NetName=PA1 Pin=PR_copy-15
+Added Pin To Net: NetName=PA0 Pin=PR_copy-16
+Added Pin To Net: NetName=PC15 Pin=PR_copy-17
+Added Pin To Net: NetName=PC14 Pin=PR_copy-18
+Added Pin To Net: NetName=PC13 Pin=PR_copy-19
+Added Pin To Net: NetName=VBT Pin=PR_copy-20
+Added Member To Class: ClassName=Window_shades Member=Component PR_copy Header 20
+Added Member To Class: ClassName=Window_shades Member=Component Usart1_copy Header 4
+Added Room: Name=Window_shades

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=V4-1
+Removed Pin From Net: NetName=VCC_7.4V Pin=V4-3
+Added Pin To Net: NetName=VCC_7.4V Pin=V4-1
+Added Pin To Net: NetName=VCC_3.3V Pin=V4-3
+Added Room: Name=Window_shades

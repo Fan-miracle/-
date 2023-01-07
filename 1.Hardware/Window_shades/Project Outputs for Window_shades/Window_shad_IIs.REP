@@ -1,0 +1,34 @@
+*************************************************************
+FileName = Window_shad_IIs.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : Window_shad_IIs.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Window_shad_IIs.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+

@@ -1,0 +1,17 @@
+..\obj\emm42_board.o: ..\HARDWARE\Emm42_board\Emm42_board.c
+..\obj\emm42_board.o: ..\HARDWARE\Emm42_board\Emm42_board.h
+..\obj\emm42_board.o: ..\USER\stm32f10x.h
+..\obj\emm42_board.o: ..\CORE\core_cm3.h
+..\obj\emm42_board.o: D:\Keil-5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\emm42_board.o: ..\USER\system_stm32f10x.h
+..\obj\emm42_board.o: ..\USER\stm32f10x_conf.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\emm42_board.o: ..\USER\stm32f10x.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\emm42_board.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\emm42_board.o: ..\HARDWARE\Emm42_board\Emm42_usart.h
+..\obj\emm42_board.o: ..\HARDWARE\Emm42_board\Emm42_board.h
